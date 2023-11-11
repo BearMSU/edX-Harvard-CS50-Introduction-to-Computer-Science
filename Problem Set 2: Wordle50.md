@@ -1,0 +1,5 @@
+![2023-11-11 17_47_53-CS50x 2023](https://github.com/BearMSU/edX-Harvard-CS50-Introduction-to-Computer-Science/assets/65471994/6f26cd67-cc2a-489a-9353-028d284cac8c)
+![2023-11-11 17_48_07-CS50x 2023](https://github.com/BearMSU/edX-Harvard-CS50-Introduction-to-Computer-Science/assets/65471994/841cbe5f-0aa6-46d0-b510-82084ba53d27)
+![2023-11-11 17_48_31-CS50x 2023](https://github.com/BearMSU/edX-Harvard-CS50-Introduction-to-Computer-Science/assets/65471994/4376a208-6991-4bfa-9699-def418190d67)
+![2023-11-11 17_48_49-CS50x 2023](https://github.com/BearMSU/edX-Harvard-CS50-Introduction-to-Computer-Science/assets/65471994/9a437915-237c-46b8-9007-df161d8eaa8c)
+![2023-11-11 17_49_19-CS50x 2023](https://github.com/BearMSU/edX-Harvard-CS50-Introduction-to-Computer-Science/assets/65471994/63434b6b-feae-48aa-b940-703260bcc097)
